@@ -27,6 +27,8 @@ function App() {
           }
           }>Kurang</button>
         </div>
+        <Apa />
+        <Oke />
         <p>Only One Parent</p>
         <Tes nama='lars' sekolah='SMK MQ'/>
         <Tes nama='nabil' sekolah='SMP Amalia'/>
